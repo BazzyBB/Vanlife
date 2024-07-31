@@ -1,5 +1,5 @@
 import React from "react"
-import incomeGraph from "../assets/images/reviews-graph.png"
+import incomeGraph from "../pages/assets/images/income-graph.png"
 
 export default function Income() {
     const transactionsData = [
