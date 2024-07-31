@@ -1,6 +1,6 @@
 import React from "react"
 import { BsStarFill } from "react-icons/bs"
-import ReviewsGraph from "../assets/images/reviews-graph.png"
+import ReviewsGraph from "../pages/assets/images/reviews-graph.png"
 
 export default function Reviews() {
     const reviewsData = [
